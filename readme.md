@@ -1,8 +1,8 @@
 # CrazyPracticals (21 Spring)
 
-> **Members: Yujie He, [Jianhao Zheng](https://github.com/Jianhao-zheng/), and [Longlai Qiu](https://github.com/kevinxqiu)**
+> **Members: [Yujie He](https://github.com/hibetterheyj), Jianhao Zheng, and [Longlai Qiu](https://github.com/kevinxqiu)**
 >
-> **[[Video](https://youtu.be/RP4-SlhOIUk)] [[Code](https://github.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing/tree/master/code/crazyflie-lib-python/group_7)] [[Slide](https://drive.google.com/file/d/1vY_UMflVXOcUSOASHkGHsSTXCBmwrVhK/preview)]**
+> **[[Video](https://youtu.be/RP4-SlhOIUk)] [[Code](https://https://github.com/Jianhao-zheng/Crazyflie-Auto-navigation-and-landing/tree/master/code/crazyflie-lib-python/group_7)] [[Slide](https://drive.google.com/file/d/1vY_UMflVXOcUSOASHkGHsSTXCBmwrVhK/preview)]**
 
 ## Goal: Autonomous Navigation and Landing for Crazyflie
 
